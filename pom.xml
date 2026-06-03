@@ -9,7 +9,8 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-    <module>objects-classes-interfaces-packages-inheritance</module>
+    <module>01-objects-classes-interfaces-packages-inheritance</module>
+    <module>02-java-lang-basics</module>
   </modules>
 
   <properties>

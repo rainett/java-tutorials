@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>objects-classes-interfaces-packages-inheritance</artifactId>
+  <artifactId>01-objects-classes-interfaces-packages-inheritance</artifactId>
 
   <properties>
     <maven.compiler.source>25</maven.compiler.source>
